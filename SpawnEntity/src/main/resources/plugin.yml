@@ -1,0 +1,10 @@
+name: SpawnEntity
+version: ${project.version}
+main: spawnentity.spawnentity.SpawnEntity
+api-version: 1.16
+authors: [ Jozo ]
+description: SpawnEntity
+website: jozo85.mzf.cz
+commands:
+  spawnentity:
+    description: spawns entity
